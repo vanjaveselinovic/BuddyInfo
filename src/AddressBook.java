@@ -13,6 +13,7 @@ public class AddressBook {
 		AddressBook addressBook = new AddressBook();
 		BuddyInfo buddy1 = new BuddyInfo();
 		addressBook.addBuddy(buddy1);
-		///addressBook.removeBuddy(buddy1);
+		addressBook.removeBuddy(buddy1);
+		//editing on github
 	}
 }
